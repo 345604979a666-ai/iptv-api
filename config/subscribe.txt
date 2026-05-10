@@ -1,7 +1,8 @@
 # 这是订阅源列表，每行一个订阅地址
-# 支持设置UA：https://xxx.com/subscribe.m3u UA="xxx"
+# 支持设置UA：https://github.com/zilong7728/Collect-IPTV/blob/main/best_sorted.m3u
+ UA="xxx"
 # This is a list of subscription sources, with one subscription address per line
-# Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
+# Supports setting UA: https://github.com/CCSH/IPTV/blob/main/live_lite.m3u UA="xxx"
 
 
 
